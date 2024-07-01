@@ -1,0 +1,20 @@
+/* body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #fbd561;
+} */
+
+.thunder-symbol {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    background-color: #8e3eff;
+    color: white;
+    font-size: 24px;
+    border-radius: 5px;
+}
